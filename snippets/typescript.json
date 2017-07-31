@@ -519,7 +519,7 @@
     },
     "{N} Visibility Attribute": {
         "prefix": "visibility",
-        "body": "[visibility]=\"isItemVisible ? 'visible' : 'collapsed'\"$2"
+        "body": "[visibility]=\"isItemVisible ? 'visible' : 'collapse'\"$2"
     },
     "{N} Stretch Attribute": {
         "prefix": "stretch",
